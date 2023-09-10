@@ -50,7 +50,7 @@ iHearU is a fusion of cutting-edge technologies and creative methodologies:
 
 3. Use the "Text to Sign Language" feature to translate ASL gestures into text.
 
-![photo_2023-07-14_20-11-44](https://github.com/Mozasbugs/iHearU/assets/103077062/8268a84b-690a-465b-9eef-f75eecb92157)
+![co3](https://github.com/MostafaElnajar/iHEARU/assets/105497824/ae2ae5a5-5c6b-4a2e-aef7-7f44ef21d057)
 
 ## Contributing
 We welcome and appreciate contributions to iHearU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
