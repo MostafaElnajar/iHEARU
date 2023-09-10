@@ -24,14 +24,14 @@ iHearU is an innovative application that aims to break down communication barrie
 - **Text to Sign Language:** The "Text to Sign Language" aspect of iHearU employs a state-of-the-art deep learning model known as the "Gesture Recognizer." This model has been meticulously trained on an expansive dataset, enabling it to accurately translate American Sign Language (ASL) gestures captured by a camera into textual information. This transformative technology empowers hearing impaired individuals to communicate fluently and naturally in sign language, while simultaneously allowing those who do not understand sign language to comprehend their messages.
 
 ## Technologies Used
-iHearU is a fusion of cutting-edge technologies and creative methodologies:
+iHEARU is a fusion of cutting-edge technologies and creative methodologies:
 - **Unity:** The Unity development platform forms the cornerstone of iHearU's user interface, providing a seamless and engaging experience for users to interact with the application's features.
 - **Maya:** The Maya 3D modeling and animation software is instrumental in crafting the detailed avatars and lifelike sign language animations that enhance the user experience.
 - **TensorFlow:** The powerful TensorFlow deep learning framework underpins the "Gesture Recognizer" model, enabling precise and efficient translation of sign language gestures.
 - **MediaPipe:** MediaPipe's hand gesture recognition capabilities facilitate real-time capture and interpretation of ASL gestures, ensuring accurate communication translation.
 
 ## Getting Started
-1. Clone the repository: 'https://github.com/Mozasbugs/iHearU.git'
+1. Clone the repository: 'https://github.com/MostafaElnajar/iHEARU'
 2. Set up Unity environment: [Unity Installation Guide](https://unity.com/)
 3. Install required Python packages
 4. Download pre-trained model weights
@@ -42,24 +42,24 @@ iHearU is a fusion of cutting-edge technologies and creative methodologies:
 ![1](https://github.com/Mozasbugs/iHearU/assets/103077062/7b0b8303-5363-493a-8fb5-8917ca9234f9)     ![2](https://github.com/Mozasbugs/iHearU/assets/103077062/e5b0ade2-6185-4ad7-a22d-6e67cdc50708)
 
 
-2. Use the "Sign to Text" feature to see sign language gestures corresponding to text input.
+2. Use the "Text to Sign Language" feature to see sign language gestures corresponding to text input.
 
 
 ![3](https://github.com/Mozasbugs/iHearU/assets/103077062/ffec36b4-d6f4-4761-8d1e-d7e35acbcb2d)
 
 
-3. Use the "Text to Sign Language" feature to translate ASL gestures into text.
+3. Use the "Sign Language to Text" feature to translate ASL gestures into text.
 
-![co3](https://github.com/MostafaElnajar/iHEARU/assets/105497824/ae2ae5a5-5c6b-4a2e-aef7-7f44ef21d057)
+![4](https://github.com/MostafaElnajar/iHEARU/assets/105497824/ae2ae5a5-5c6b-4a2e-aef7-7f44ef21d057)
 
 ## Contributing
-We welcome and appreciate contributions to iHearU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome and appreciate contributions to iHEARU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Acknowledgments
-We express sincere gratitude to the following individuals who played a pivotal role in shaping iHearU:
+We express sincere gratitude to the following individuals who played a pivotal role in shaping iHEARU:
+- Mostafa Elnagar
 - Mohamed Ezz El-Dein
 - Ahmed Adel
-- Mostafa Elnagar
 - Moaz Atef
 
 ## License
