@@ -50,7 +50,8 @@ iHEARU is a fusion of cutting-edge technologies and creative methodologies:
 
 3. Use the "Sign Language to Text" feature to translate ASL gestures into text.
 
-![4](https://github.com/MostafaElnajar/iHEARU/assets/105497824/ae2ae5a5-5c6b-4a2e-aef7-7f44ef21d057)
+![4](https://github.com/MostafaElnajar/iHEARU/assets/105497824/3cc4be85-7fed-4440-8f51-90b96c873eb7)
+
 
 ## Contributing
 We welcome and appreciate contributions to iHEARU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
